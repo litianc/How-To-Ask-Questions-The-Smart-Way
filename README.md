@@ -1,4 +1,8 @@
+
+#提問的智慧1
+=======
 #提问的智慧
+
 
 **How To Ask Questions The Smart Way**
 
@@ -664,6 +668,12 @@ RTFM 有一个年轻的亲戚。如果你收到```STFW（Search The Fucking Web�
 
 如果你需要个人电脑、Unix 系统和网络如何运作的基础知识，参阅[Unix系统和网络基本原理](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)。
 
+
+當你發布軟體或補丁時，試著按[軟體發布實踐](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html)操作。
+
+## 鳴謝
+Evelyn Mitchel貢獻了一些愚蠢問題例子並啟發了編寫```如何更好地回答問題```這一節， Mikhail Ramendik貢獻了一些特別有價值的建議和改進。
+=======
 当你发布软件或补丁时，试着按[软件发布实践](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html)操作。
 
 ## 鸣谢
