@@ -1,4 +1,4 @@
-#提問的智慧
+#提問的智慧1
 
 **How To Ask Questions The Smart Way**
 
@@ -668,4 +668,3 @@ RTFM 有一個年輕的親戚。如果你收到```STFW（Search The Fucking Web�
 
 ## 鳴謝
 Evelyn Mitchel貢獻了一些愚蠢問題例子並啟發了編寫```如何更好地回答問題```這一節， Mikhail Ramendik貢獻了一些特別有價值的建議和改進。
-
